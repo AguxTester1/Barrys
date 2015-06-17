@@ -39,6 +39,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1 - Copy %282%29.cs" />
+    <Compile Include="Class1 - Copy %283%29.cs" />
+    <Compile Include="Class1 - Copy %284%29.cs" />
+    <Compile Include="Class1 - Copy %285%29.cs" />
+    <Compile Include="Class1 - Copy %286%29.cs" />
+    <Compile Include="Class1 - Copy %287%29.cs" />
+    <Compile Include="Class1 - Copy.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
